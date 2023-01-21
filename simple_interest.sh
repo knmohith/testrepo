@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors: Christian Balogun
-   # <Highlandfury>
+   # <knmohith>
 
    # Input:
    # p, principal amount
